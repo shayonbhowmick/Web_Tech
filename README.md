@@ -1,2 +1,5 @@
 # Web_Tech
-hello 
+class a {
+int a ;
+
+}
