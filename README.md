@@ -1,5 +1,5 @@
 # Web_Tech
 class a {
-int a ;
+int a =10 ;
 
 }
