@@ -1,5 +1,3 @@
 # Web_Tech
-class a {
-int a =10 ;
-
-}
+hello world 
+it's me . remote 
